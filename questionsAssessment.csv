@@ -1,0 +1,12 @@
+What are Primitive Data Types,the most basic data types available within the Java language,rb
+What are Constructors?,A special method that is used to initialize objects,rb
+What is an Object?,An instance of a Java class - a copy of a specific class,rb
+Which type of Class tests different Template Classes?,Test Class,rb
+What is an Instance Variable?,A variable that is specific to a certain object and define that object ,rb
+What is the difference between a Template and Test Class?,no main method,rb
+Choose the Reference Data Type,Array,cb
+Getters...?,should always be kept at the Public access level,cb
+What are Setters also known as?,Set Methods; Mutators;,tb
+What format specifier formats double/float and prints out 2 decimal places?,%.2f,tb
+What are Getters also known as?,Get Methods; Accessors;,tb
+How do you write a method header (use public as access variable\void as return type\use kmDriven as method title with no parameters)?,public void kmDriven() {},tb

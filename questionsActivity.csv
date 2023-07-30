@@ -1,0 +1,15 @@
+What is an Object?,Instance
+What is an example of a Primitive Data Type,int
+Getters are also known as...,Get Methods
+Which format specifier do you use to format doubles?,%f
+What access level should be used for fields?,private
+String is a...,Reference Type
+What is the first step to calling a method from another class?,Create Object of Class
+What access level should getters/setters be kept at?,public
+Arguments are...,values passed to method header
+Parameters are...,variables listed in method declaration
+Instances have...,same set of attributes
+What is a Method?,block of code that performs an action
+What is a Class?,blueprint for creating Objects
+What does toString Method do?,returns String of Object
+A static method...,belongs to the class rather than instance
